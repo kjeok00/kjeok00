@@ -13,6 +13,12 @@
   <a href="https://velog.io/@kjeok">
     <img src="https://img.shields.io/badge/Velog-20C997?style=plastic&logo=Velog&logoColor=white"/>
   </a>
+</span>  
+
+<span>
+  <a href="https://github.com/kjeok00">
+    <img src="https://img.shields.io/badge/Github-181717?style=plastic&logo=Github&logoColor=white"/>
+  </a>
 </span>
 
 </details>
