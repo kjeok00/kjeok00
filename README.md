@@ -23,7 +23,6 @@
   </a>
 </span>
 
-
 </details>
 
 <table>
