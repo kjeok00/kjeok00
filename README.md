@@ -28,11 +28,7 @@
 
 <table>
   <tr>
-    <td>
-      <a href="https://solved.ac/kjeok00/">
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kjeok00" />
-      </a>
-    </td>
+    <!-- 이 주석은 보이지 않습니다. -->
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api?username=kjeok00&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" />
