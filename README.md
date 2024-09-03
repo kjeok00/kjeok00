@@ -9,23 +9,6 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkjeok00&count_bg=%2300E1FF&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<details>
-  <summary>About Me</summary> 
-
-<span>
-  <a href="https://velog.io/@kjeok">
-    <img src="https://img.shields.io/badge/Velog-20C997?style=plastic&logo=Velog&logoColor=white"/>
-  </a>
-</span>  
-
-<span>
-  <a href="https://github.com/kjeok00">
-    <img src="https://img.shields.io/badge/Github-181717?style=plastic&logo=Github&logoColor=white"/>
-  </a>
-</span>
-
-</details>
-
 <table>
   <tr>
     <!-- 이 주석은 보이지 않습니다. -->
