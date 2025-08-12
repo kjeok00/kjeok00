@@ -7,7 +7,7 @@
     
 ![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=HI,%20I%20am%20Jihyeok.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkjeok00&count_bg=%2300E1FF&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 
 <table>
   <tr>
